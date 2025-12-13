@@ -3,10 +3,12 @@ import requests
 from dotenv import load_dotenv
 import os 
 import json
+import boto3
 
 load_dotenv('.env')
 CLIENT_ID = os.getenv('CLIENT_ID')
 CLIENT_SECRET = os.getenv('CLIENT_SECRET')
+
 
 # create a token for spotify
 def access_token():
@@ -72,7 +74,8 @@ def get_new_relaese():
 
 
                }
-               print(json.dumps(info,indent=2))
+               print(json.dumps(info, indent=2))
+               print("*" *30)
                # releases.append(a)
             # print(releases)
            # print(response.json())

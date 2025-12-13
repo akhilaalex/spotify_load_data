@@ -1,0 +1,452 @@
+[
+  {
+    "album_name": "Brat and it\u2019s completely different but also still brat",
+    "artist_name": "Charli xcx",
+    "release_date": "2024-10-11",
+    "album_type": "album",
+    "total_tracks": 34,
+    "spotify_url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0255a1e72ba425c60a02a9bb47"
+  },
+  {
+    "album_name": "Beautifully Broken",
+    "artist_name": "Jelly Roll",
+    "release_date": "2024-10-10",
+    "album_type": "album",
+    "total_tracks": 22,
+    "spotify_url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02d80f1f7607d4b12390321773"
+  },
+  {
+    "album_name": "GLORIOUS",
+    "artist_name": "GloRilla",
+    "release_date": "2024-10-11",
+    "album_type": "album",
+    "total_tracks": 15,
+    "spotify_url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02083fbaed50f66e8849b264cc"
+  },
+  {
+    "album_name": "APEROL SPRITZ",
+    "artist_name": "The Kid LAROI",
+    "release_date": "2024-10-11",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e020d80e0467569498fddba3f38"
+  },
+  {
+    "album_name": "Piece By Piece - Music from the Motion Picture",
+    "artist_name": "Pharrell Williams",
+    "release_date": "2024-10-11",
+    "album_type": "album",
+    "total_tracks": 21,
+    "spotify_url": "https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02d35ecb9ed16845c7d55ee847"
+  },
+  {
+    "album_name": "TYLA +",
+    "artist_name": "Tyla",
+    "release_date": "2024-10-11",
+    "album_type": "album",
+    "total_tracks": 17,
+    "spotify_url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02db2c8e2a302d5147ad7f0fa0"
+  },
+  {
+    "album_name": "Different Way",
+    "artist_name": "BLOND:ISH",
+    "release_date": "2024-10-10",
+    "album_type": "single",
+    "total_tracks": 2,
+    "spotify_url": "https://open.spotify.com/album/3LdFfrNZnL21UJTBIacm7S",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0276c23a19dc49b17710a4c982"
+  },
+  {
+    "album_name": "Mantra",
+    "artist_name": "JENNIE",
+    "release_date": "2024-10-10",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0282372892b14fe93311f713df"
+  },
+  {
+    "album_name": "I Never Loved You",
+    "artist_name": "Halsey",
+    "release_date": "2024-10-10",
+    "album_type": "ep",
+    "total_tracks": 5,
+    "spotify_url": "https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02ca94457605053cdb770d16d2"
+  },
+  {
+    "album_name": "SHELL ( OF A MAN )",
+    "artist_name": "Saya Gray",
+    "release_date": "2024-10-10",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/7LDJQ920ux5U1bOZvexKX3",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0250e0b0147a01aa27821ef23a"
+  },
+  {
+    "album_name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
+    "artist_name": "C\u00e9line Dion",
+    "release_date": "2024-10-10",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02a6c55f63b224df9c1131eff9"
+  },
+  {
+    "album_name": "Moon Music",
+    "artist_name": "Coldplay",
+    "release_date": "2024-10-04",
+    "album_type": "album",
+    "total_tracks": 10,
+    "spotify_url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0209ba52a5116e0c3e8461f58b"
+  },
+  {
+    "album_name": "Can You Die From a Broken Heart (feat. Avril Lavigne)",
+    "artist_name": "Nate Smith",
+    "release_date": "2024-09-30",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02d20c9548dbb40ea1d11a03ae"
+  },
+  {
+    "album_name": "Honey",
+    "artist_name": "Caribou",
+    "release_date": "2024-10-04",
+    "album_type": "album",
+    "total_tracks": 12,
+    "spotify_url": "https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02a30e34693870f9c4e29dceba"
+  },
+  {
+    "album_name": "JAGUAR II : Deluxe",
+    "artist_name": "Victoria Mon\u00e9t",
+    "release_date": "2024-10-04",
+    "album_type": "album",
+    "total_tracks": 21,
+    "spotify_url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0233cdbd1f93617cf3d30bf0c7"
+  },
+  {
+    "album_name": "two",
+    "artist_name": "bbno$",
+    "release_date": "2024-10-04",
+    "album_type": "single",
+    "total_tracks": 2,
+    "spotify_url": "https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02c53c4a6647fcac7600a19940"
+  },
+  {
+    "album_name": "Moonlit Floor (Kiss Me)",
+    "artist_name": "LISA",
+    "release_date": "2024-10-03",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02cb2610dd051df9875fc947d4"
+  },
+  {
+    "album_name": "What This Could Be / Work It Out",
+    "artist_name": "Joe Jonas",
+    "release_date": "2024-10-04",
+    "album_type": "single",
+    "total_tracks": 3,
+    "spotify_url": "https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e020cf32ea5fee3d1310636bff9"
+  },
+  {
+    "album_name": "Allure (feat. Future & Mike WiLL Made-It)",
+    "artist_name": "A$AP Ferg",
+    "release_date": "2024-10-04",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02e685867c7baccaa70abbb82c"
+  },
+  {
+    "album_name": "Jonah Yano & The Heavy Loop",
+    "artist_name": "Jonah Yano",
+    "release_date": "2024-10-04",
+    "album_type": "album",
+    "total_tracks": 8,
+    "spotify_url": "https://open.spotify.com/album/0Dkosc68Kf7DYXTSwaY175",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0222c7417a5b78a7e357d53024"
+  },
+  {
+    "album_name": "Joker: Folie \u00e0 Deux (Music From The Motion Picture)",
+    "artist_name": "Joaquin Phoenix",
+    "release_date": "2024-10-04",
+    "album_type": "album",
+    "total_tracks": 16,
+    "spotify_url": "https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0235a31bf0be66fc393f3a5874"
+  },
+  {
+    "album_name": "Lotus Eater",
+    "artist_name": "FINNEAS",
+    "release_date": "2024-10-01",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/494g1fkelfoloDvUuqdAED",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e025b6ad3bc750f01c76245ed7e"
+  },
+  {
+    "album_name": "Bon Voyage",
+    "artist_name": "Allie X",
+    "release_date": "2024-10-03",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/7MkPMywDbiUC6QJ7J4Vgt9",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02e550cb820c24b18b7d0b5a3a"
+  },
+  {
+    "album_name": "Am I Okay? (I'll Be Fine)",
+    "artist_name": "Megan Moroney",
+    "release_date": "2024-10-04",
+    "album_type": "album",
+    "total_tracks": 17,
+    "spotify_url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0238f1aafcf339a324b69fcf42"
+  },
+  {
+    "album_name": "Whisper",
+    "artist_name": "Myles Smith",
+    "release_date": "2024-10-04",
+    "album_type": "single",
+    "total_tracks": 3,
+    "spotify_url": "https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02b678f9264447123fd7b9f06e"
+  },
+  {
+    "album_name": "Ever New",
+    "artist_name": "Beverly Glenn-Copeland",
+    "release_date": "2024-10-02",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/2SOtQJ5vNtbbkQizTdqnEO",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e023078327577b26f5630483f50"
+  },
+  {
+    "album_name": "YOU CRY LOVE.",
+    "artist_name": "jev.",
+    "release_date": "2024-10-04",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/2QKuLOLIQ8rD4aPXNr6rxR",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02aacefe4dba5728517635ee15"
+  },
+  {
+    "album_name": "Lahai (Deluxe)",
+    "artist_name": "Sampha",
+    "release_date": "2024-10-01",
+    "album_type": "album",
+    "total_tracks": 18,
+    "spotify_url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02791bcfd8ae1149dbb2375991"
+  },
+  {
+    "album_name": "People Were Dancing",
+    "artist_name": "Keys N Krates",
+    "release_date": "2024-10-04",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/2Bqlcyqq8UerhVB18B1Kcq",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0221dda9afd843dd9d705fe420"
+  },
+  {
+    "album_name": "ORIGIN (Deluxe)",
+    "artist_name": "Frank Walker",
+    "release_date": "2024-10-04",
+    "album_type": "album",
+    "total_tracks": 17,
+    "spotify_url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02ff76f7f181f9b55f1d2b5447"
+  },
+  {
+    "album_name": "My World",
+    "artist_name": "Calum Scott",
+    "release_date": "2024-10-04",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e023d2787ac8389bc065c2f50bf"
+  },
+  {
+    "album_name": "Monitoring Me",
+    "artist_name": "Lil Durk",
+    "release_date": "2024-10-04",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/4gihDInzv5b57Fy5fhcsGV",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e024b5a5d865b9bc24254513b24"
+  },
+  {
+    "album_name": "Change My Mind",
+    "artist_name": "Riley Green",
+    "release_date": "2024-10-04",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/5ndkH4RnE1m6TcBhyKpWB8",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0253ab06141e9ffcca05ef4703"
+  },
+  {
+    "album_name": "Older (and Wiser)",
+    "artist_name": "Lizzy McAlpine",
+    "release_date": "2024-10-04",
+    "album_type": "album",
+    "total_tracks": 19,
+    "spotify_url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02ae8516f025f800e78b875d44"
+  },
+  {
+    "album_name": "Higher Resolution (Side A)",
+    "artist_name": "Kasablanca",
+    "release_date": "2024-10-04",
+    "album_type": "album",
+    "total_tracks": 11,
+    "spotify_url": "https://open.spotify.com/album/7LUegyOtLkGwKalcns60bK",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02363e9bf54ee128c9ec38b6d9"
+  },
+  {
+    "album_name": "story i tell myself",
+    "artist_name": "Lindsay Ell",
+    "release_date": "2024-10-04",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/6SN574dbaX96k0sDGgdlDq",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02bb7e1c6946324849f4c406ae"
+  },
+  {
+    "album_name": "Leon",
+    "artist_name": "Leon Bridges",
+    "release_date": "2024-10-04",
+    "album_type": "album",
+    "total_tracks": 13,
+    "spotify_url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02f48c6b7df709454b5785253e"
+  },
+  {
+    "album_name": "Harlequin",
+    "artist_name": "Lady Gaga",
+    "release_date": "2024-09-27",
+    "album_type": "album",
+    "total_tracks": 13,
+    "spotify_url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e028c6bfaa9549f8438bcafb668"
+  },
+  {
+    "album_name": "Dunya",
+    "artist_name": "Mustafa",
+    "release_date": "2024-09-27",
+    "album_type": "album",
+    "total_tracks": 12,
+    "spotify_url": "https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e027285d9b160e5139ec378b7e1"
+  },
+  {
+    "album_name": "Omega (feat. Ralphie Choo)",
+    "artist_name": "ROSAL\u00cdA",
+    "release_date": "2024-09-24",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0251520e91faa5c5e2a5a94d33"
+  },
+  {
+    "album_name": "Heavy Is the Crown",
+    "artist_name": "Linkin Park",
+    "release_date": "2024-09-24",
+    "album_type": "single",
+    "total_tracks": 2,
+    "spotify_url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0290db48f63a20fa434531c1a8"
+  },
+  {
+    "album_name": "Hold Me Down (feat. Kah-Lo)",
+    "artist_name": "Shay Lia",
+    "release_date": "2024-09-27",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/77kQjc7iSD6oE0K11HWBjv",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02a932b090268a7f60f4126bfa"
+  },
+  {
+    "album_name": "COYOTE",
+    "artist_name": "Tommy Richman",
+    "release_date": "2024-09-27",
+    "album_type": "album",
+    "total_tracks": 11,
+    "spotify_url": "https://open.spotify.com/album/7c60QdnpXI2efwnUaIzQSu",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02cd721da3f9b44382eae07d72"
+  },
+  {
+    "album_name": "Quitter",
+    "artist_name": "Cameron Whitcomb",
+    "release_date": "2024-09-27",
+    "album_type": "ep",
+    "total_tracks": 5,
+    "spotify_url": "https://open.spotify.com/album/23tD5uyi8NdGSKR8OsuU5t",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0228a8c4514c15d4052a8992cb"
+  },
+  {
+    "album_name": "Soltera",
+    "artist_name": "Shakira",
+    "release_date": "2024-09-25",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02ab3c4257d46b6350454c2f4b"
+  },
+  {
+    "album_name": "You'll Be Alright, Kid (Chapter 1)",
+    "artist_name": "Alex Warren",
+    "release_date": "2024-09-27",
+    "album_type": "album",
+    "total_tracks": 10,
+    "spotify_url": "https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e022bf7cd93a4c0286b11d1dfb7"
+  },
+  {
+    "album_name": "Stars Will Align",
+    "artist_name": "Kygo",
+    "release_date": "2024-09-27",
+    "album_type": "single",
+    "total_tracks": 1,
+    "spotify_url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02c02ebed68e17f31faa54d54d"
+  },
+  {
+    "album_name": "ceremonial contrafact (empathogen deluxe)",
+    "artist_name": "WILLOW",
+    "release_date": "2024-09-27",
+    "album_type": "album",
+    "total_tracks": 15,
+    "spotify_url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02efe353934c4999a16dbc6382"
+  },
+  {
+    "album_name": "Mind Of A Country Boy",
+    "artist_name": "Luke Bryan",
+    "release_date": "2024-09-27",
+    "album_type": "album",
+    "total_tracks": 14,
+    "spotify_url": "https://open.spotify.com/album/0SyEsGffJ9ZqvRkuVrzOlB",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e027dac6541da470f26cce70e01"
+  },
+  {
+    "album_name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
+    "artist_name": "Christina Aguilera",
+    "release_date": "2024-09-23",
+    "album_type": "ep",
+    "total_tracks": 6,
+    "spotify_url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02ec52118faafdbd41b13d0450"
+  }
+]
