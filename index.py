@@ -2,6 +2,7 @@ import base64
 import requests
 from dotenv import load_dotenv
 import os 
+import json
 
 load_dotenv('.env')
 CLIENT_ID = os.getenv('CLIENT_ID')
@@ -59,12 +60,19 @@ def get_new_relaese():
            data = response.json()
            releases = []
            albums = data['albums']['items']
-           for i in albums:
-               a = {
-                   'album_name': i['name'],
-                   'release_date' : i['release_date']
+           for album in albums:
+               info = {
+                   'album_name': album['name'],
+                   'artist_name' : album['artists'][0]['name'],
+                   'release_date' : album['release_date'],
+                   'album_type' : album['album_type'],
+                   'total_tracks' : album['total_tracks'],
+                   'spotify_url' : album['external_urls']['spotify'],
+                   'album_image' : album['images'][0]['url'] if album['images'] else None
+
+
                }
-               print(a)
+               print(json.dumps(info,indent=2))
                # releases.append(a)
             # print(releases)
            # print(response.json())
